@@ -1,0 +1,21 @@
+print <ol>\n
+
+before \t<li class="headers">
+after </li>
+between \n
+
+one
+two
+three
+four
+five
+
+before \t<li class="footers">
+
+six
+seven
+eight
+nine
+ten
+
+print </ol>
